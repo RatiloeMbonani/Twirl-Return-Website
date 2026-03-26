@@ -111,7 +111,7 @@ Footer
 
 ## How to Run the Project
 
-1. Download or clone the repository(git clone https://github.com/yourusername/twirl-return.git)
+1. Download or clone the repository(git clone https://github.com/RatiloeMbonani/twirl-return.git)
 2. Open the project folder.
 3. Ensure the following files are present:
 * index.html
