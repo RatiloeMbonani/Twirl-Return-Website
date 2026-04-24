@@ -64,51 +64,6 @@ myscript.js – JavaScript for form validation, theme switching, and mobile navi
 README.md – Project documentation
 
 
-## JavaScript Functionality
-Form Validation
-* Ensures name, email, and message fields are not empty
-* Displays a thank-you alert
-* Resets the form after successful submission
-
-Theme Toggle
-* Retrieves the saved theme from local storage
-* Toggles between light and dark modes
-* Updates the `data-theme` attribute on the root element
-
-Mobile Navigation Toggle
-* Shows or hides navigation links on small screens
-* Adds or removes the show class from the navigation menu
-
-FAQ Interactivity
-* Converts FAQ paragraphs into clickable questions
-* Allows answers to expand or collapse when clicked
-
-
-## Responsive Design
-The website adapts to different screen sizes using CSS media queries.
-
-Mobile Adjustments (below 768px)
-Navigation
-* Navigation menu stacks vertically
-* Hamburger menu appears
-* Links display as dropdown items
-
-Hero Section
-* Reduced height
-* Simplified layout
-
-Gallery
-* Grid switches to a single column
-* Dress cards expand to full width
-
-Forms and FAQ
-* Stacked layout
-* Adjusted spacing and font sizes
-
-Footer
-* Sections stack vertically
-* Centered text for readability
-
 ## How to Run the Project
 
 1. Download or clone the repository(git clone https://github.com/RatiloeMbonani/twirl-return.git)
@@ -132,9 +87,5 @@ Possible enhancements for the platform include:
 * User accounts for clients
 
 
-## Author
-Ratiloe Lebogang Mbonani
-Aspiring Full-stack developer
 
- with an emphasis on **responsive design, usability, and interactive functionality**.
 
